@@ -59,4 +59,9 @@ Communication was organized according to the audience and stage of the event:
 
 This project includes recreated portfolio materials based on my event coordination workflow.
 
+- [Volunteer Event Coordination Workflow](https://github.com/Adaeze7531/volunteer-event-coordination/blob/main/Volunteer%20Event%20Coordination%20Workflow.png)
+- [Volunteer Event Planning Checklist](https://github.com/Adaeze7531/volunteer-event-coordination/blob/main/VOLUNTEER%20EVENT%20PLANNING%20CHECKLIST.pdf)
+- [Volunteer Event Communication Plan](https://github.com/Adaeze7531/volunteer-event-coordination/blob/main/VOLUNTEER%20EVENT%20COMMUNICATION%20PLAN.pdf)
+- [Volunteer Event Coordination - Project Overview](https://github.com/Adaeze7531/volunteer-event-coordination/blob/main/Volunteer%20Event%20Coordination%20-%20Project%20Overview.pdf)
+
 > Note: Portfolio materials have been recreated or anonymized to protect confidential organizational and participant information.
